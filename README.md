@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Devil0986
+- 👋 Hi, I’m Debasish, a backend developer.
 - 👀 I’m interested in ...Java coding
-- 🌱 I’m currently learning ... java full Stack development
+- 🌱 I’m working in NOKIA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@dsdebasish on insta
 
